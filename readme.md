@@ -26,6 +26,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princewritecode&show_icons=true&locale=en&layout=compact" alt="princewritecode" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princewritecode&show_icons=true&locale=en" alt="princewritecode" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princewritecode&" alt="princewritecode" /></p>
