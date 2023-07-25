@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princewritecode&label=Profile%20views&color=0e75b6&style=flat" alt="princewritecode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princewritecode" alt="princewritecode" /></a> </p>
-
 - 🌱 I’m currently learning **M-E-R-N**
 
 - 📝 I regularly write articles on [https://hashnode.com/@princewritecode](https://hashnode.com/@princewritecode)
